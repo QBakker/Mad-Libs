@@ -1,0 +1,67 @@
+*{
+  margin: 0px;
+}
+
+a {
+  color: #fff;
+  display: inline-block;
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+  margin: 0px 10px;
+  text-decoration: none;
+}
+
+body{
+  background-color: rgba(80,80,80,1);
+}
+
+button{
+  position: absolute;
+  right: 240px
+}
+
+footer {
+  background-color: rgba(111,111,111,0.5);
+  height: 20px;
+  margin: 0px auto;
+  padding: 10px 0px;
+  text-align: center;
+  width: 700px;
+}
+
+h1{
+  font-family: 'Lobster', cursive;
+  font-size: 80px;
+  text-align: center;
+  margin: 25px auto;
+}
+
+h2{
+  font-family: 'Lobster', cursive;
+  margin: 20px 10px;
+}
+
+header{
+  background-color: rgba(150,0,0,1);
+}
+
+input{
+  margin-right: 0px;
+  position: absolute;
+  right: 100px;
+  width: 200px;
+}
+
+p {
+  position: relative;
+  margin-bottom: 25px;
+  margin-left: 10px;
+}
+
+.wrapper{
+  position: relative;
+  background-color: rgba(255,255,255,1);
+  height: 600px;
+  margin: 0px auto;
+  width: 700px;
+}
